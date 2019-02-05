@@ -1,2 +1,2 @@
 # calculator
-Mathematical calculator
+BMI calculator challenge
